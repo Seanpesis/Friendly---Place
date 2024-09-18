@@ -1,4 +1,4 @@
-# Friendly---Place
+# Friendly-Place
 Friendly Place - Share Your Personal Experiences
 
 Welcome to Friendly Place, an open platform where everyone is invited to share their personal experiences, stories, and thoughts. Whether you're sharing moments of joy, lessons from challenges, or just expressing yourself, Friendly Place offers a supportive space for everyone.
